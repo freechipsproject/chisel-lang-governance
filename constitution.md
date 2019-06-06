@@ -1,8 +1,9 @@
-# Chisel Working Group (CWG) Constitution Proposal
+# Chisel Working Group (CWG) Provisional Constitution
 
 ### Table of Contents
-* [Relationship to [Parent Project]](#relationship-to-parent-project)
+* [Relationship to [CHIPS Alliance]](#relationship-to-chips-alliance)
 * [Mission Statement](#mission-statement)
+* [Technical Advisory Committee](#technical-advisory-committee)
 * [Members](#members)
   * [Administrator](#administrator)
   * [Reviewers](#reviewers)
@@ -12,6 +13,7 @@
   * [Communication Channels](#communication-channels)
   * [Development Policy](#development-policy)
 * [Changing the Constitution](#changing-the-constitution)
+* [TAC Voting](#tac-voting)
 * [Code of Conduct (Contributors)](#code-of-conduct-contributors)
   * [Our Pledge](#our-pledge)
   * [Our Standards](#our-standards)
@@ -19,10 +21,10 @@
   * [Scope](#scope)
   * [Enforcement](#enforcement)
   
-## Relationship to [Parent Project]
+## Relationship to CHIPS Alliance
 
-[Parent Projects]’s Board of Directors will approve new projects, including Chisel and its associated projects. 
-We will be a “working group”. We will abide by the bylaws established by [Parent Project].
+CHIPS Alliance’s Board of Directors will approve new projects, including Chisel and its associated projects.
+We will be a “working group”. We will abide by the bylaws established by CHIPS Alliance.
 
 ## Mission Statement
 The Chisel ecosystem is a stable, user-friendly platform for production-quality RTL generator development, 
@@ -33,22 +35,56 @@ and administrative work.
 
 
 ## Members
-The Chisel self-governance consists of four types of members: **administrators**, **reviewers**, **developers**, and
-**volunteers**.
+The Chisel self-governance consists of five types of members: **TAC members**,
+**administrators**, **reviewers**, **developers**, and **volunteers**.
+
+### Technical Advisor Committee (TAC)
+The role of Technical Advisory Committee (TAC) is to represent the interests of the
+projects and members of the Chisel Working Group. This includes, but is not limited
+to, facilitating communication and collaboration between members, as well as interfacing
+with CHIPS Alliance on behalf of the Chisel community. Additionally, the TAC is
+responsible for upholding the policies outlined in this document.
+
+The TAC is made up of members of the community as well as one member appointed by
+the CHIPS Alliance Board. The TAC and its members are responsible for setting high
+level goals and interfacing with the CHIPS Alliance Board and other CHIPS Alliance
+working groups.
+
+Other responsibilities include: admit (and if necessary expel) project,
+organize community meetings/conferences, resolve disputes between project
+allocate funds, clarify procedures for each membership type, and publicize
+Chisel projects.
+
+Projects are admitted (or expelled) by a 2/3 vote of the TAC. A list of current
+projects is maintained in a document in this repository.
+
+The members are listed by name and Github username in a document within
+this repository. Membership change is reflected by pull requests
+against the membership list document. Members have the power to remove themselves.
+Membership additions (or expulsions) require 2/3 approval of the current members
+of the TAC.
+
+#### TAC Chair
+The chair of the TAC is selected from and by the TAC members by popular vote.
+The chair's responsibilities are to schedule and run meetings of the TAC, as well
+as count votes and enforce voting periods for any action that requires a vote.
+
+The chair will serve until they step down or are replaced by a new vote of the TAC.
+Chair elections generally occur during scheduled meetings, but in the event of an
+absent or otherwise misbehaving chair, such a vote can be initiated by any TAC member
+as a PR against the TAC membership document.
 
 ### Administrator
-Consists of a lead administrator and 1-2 other administrators who direct underlying projects and report progress to 
-[Parent Project]’s Board of Directors. They have the responsibility to represent the user community’s diverse set of 
+Consists of one lead and any number of additional administrators who direct a
+given project and report progress to the TAC
+They have the responsibility to represent the user community’s diverse set of
 interests.
 
-Administrators determine how underlying projects are managed, which may include establishing a code of conduct, 
-enforcing collaboration policies, and determining how contributors become part of the organization. They also resolve 
-disagreements between Reviewers (and Developers).
+Administrators determine how underlying projects are managed, which may include
+enforcing collaboration policies, and determining how contributors join the project.
+They also resolve disagreements between Reviewers, Developers, Volunteers, and users.
 
-Other responsibilities include: set high-level goals, determine how leadership transitions, establish working groups 
-(Chisel, FIRRTL, Testers, Utilities, Documentation), organize community meetings/conferences, resolve disputes between 
-developers, resolve disputes between users, assign funds, clarify procedures for each membership type, and to publicize 
-Chisel projects.
+Administrators have all of the rights and responsibilities of Reviewers.
 
 ### Reviewers
 Reviewers are selected per project repository, and their primary responsibility is to maintain the health of the code 
@@ -65,8 +101,8 @@ section.
 Reviewers strictly subsume Developers (e.g. they also have all the rights and responsibilities of Contributors).
 
 ### Developers
-Developers are the most common membership type, and is an entry point for enthusiastic community members. They have voting 
-rights for high-level directives, which will be clarified once [Parent Project] becomes more fleshed out.
+Developers are the most common membership type, and is an entry point for enthusiastic community members. They have voting
+rights for high-level directives as set by the administrators of a given project.
 
 Anyone can become a developer by signing up and *signing the CLA*. In exchange for voting rights, a developer must commit to 
 5 hours per month of development work on any Chisel project. This work can include:
@@ -98,7 +134,7 @@ contribute through PR’s to Chisel repositories, and are encouraged to review a
 
 ## Collaboration Policy
 CWG’s standard communication channels and development policy is outlined as follows, and will likely be adopted for other 
-associated [Parent Project] working groups.
+associated CHIPS Alliance working groups.
 
 ## Communication Channels
 High level leadership directives will be published via mailing list, and minutes of these discussions will be posted on the 
@@ -125,7 +161,24 @@ All code contributions to mature projects (Chisel, FIRRTL, etc.) must undergo a 
 integration tests prior to merging into the master branch.
 
 ## Changing the Constitution
-Board vote, requires 2/3 majority. Adam should look into this from other projects.
+Changes to the constitution are proposed as pull requests against this document.
+They are approved by 2/3 vote of the TAC as expressed by TAC members approving
+the pull request on Github.
+
+## TAC Voting
+For events that require a vote of the TAC (eg. changing the constitution,
+admitting new projects, admitting new members, selecting or changing TAC chair,
+expelling projects, expelling members), votes may occur via TAC members approving
+(or not approving) Github pull requests against this repository. Voting periods for
+a given change are set by the chair to a length of time not less than 2 weeks.
+Votes are tallied and if approved, pull requests are merged by the TAC Chair.
+
+Because many decisions may be non-controversial or involve personnel decisions better
+discussed in a meeting than via pull requests, votes *excluding changing the
+constitution* may occur in official TAC meetings. These votes will be tallied by the
+TAC chair, and if approved, reflected as pull requests by the chair against this
+respository. The chair must mention in the pull request when the vote took place, and
+another member of the TAC must approve the pull request for it to be merged.
 
 ## Code of Conduct (Contributors)
 

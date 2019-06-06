@@ -1,10 +1,10 @@
 # Chisel Working Group (CWG) Provisional Constitution
 
 ### Table of Contents
-* [Relationship to [CHIPS Alliance]](#relationship-to-chips-alliance)
+* [Relationship to CHIPS Alliance](#relationship-to-chips-alliance)
 * [Mission Statement](#mission-statement)
-* [Technical Advisory Committee](#technical-advisory-committee)
 * [Members](#members)
+  * [Technical Advisory Committee](#technical-advisory-committee)
   * [Administrator](#administrator)
   * [Reviewers](#reviewers)
   * [Developers](#developers)
@@ -23,8 +23,8 @@
   
 ## Relationship to CHIPS Alliance
 
-CHIPS Alliance’s Board of Directors will approve new projects, including Chisel and its associated projects.
-We will be a “working group”. We will abide by the bylaws established by CHIPS Alliance.
+The Chisel Working Group is a member of CHIPS Alliance and subject to the bylaws established by
+the CHIPS Alliance Board.
 
 ## Mission Statement
 The Chisel ecosystem is a stable, user-friendly platform for production-quality RTL generator development, 
@@ -33,31 +33,28 @@ designed to support the needs of a variety of RTL development communities, inclu
 It includes support for the “Chisel stack”, including but not limited to FIRRTL, Testers, Chisel Utilities, documentation, 
 and administrative work.
 
-
 ## Members
-The Chisel self-governance consists of five types of members: **TAC members**,
-**administrators**, **reviewers**, **developers**, and **volunteers**.
+The Chisel self-governance consists of five types of members:
+**Technical Advisory Committee members**, **administrators**, **reviewers**, **developers**,
+and **volunteers**.
 
-### Technical Advisor Committee (TAC)
+### Technical Advisory Committee
 The role of Technical Advisory Committee (TAC) is to represent the interests of the
 projects and members of the Chisel Working Group. This includes, but is not limited
 to, facilitating communication and collaboration between members, as well as interfacing
 with CHIPS Alliance on behalf of the Chisel community. Additionally, the TAC is
 responsible for upholding the policies outlined in this document.
 
+Other responsibilities include: admitting (and if necessary expelling) projects,
+organizing community meetings/conferences, resolving disputes between projects,
+allocating funds, clarifying procedures for each membership type, and publicizing
+the Chisel community.
+
+Projects are admitted (or expelled) by a 2/3 vote of the TAC.
+A list of current projects is maintained in a document in this repository.
+
 The TAC is made up of members of the community as well as one member appointed by
-the CHIPS Alliance Board. The TAC and its members are responsible for setting high
-level goals and interfacing with the CHIPS Alliance Board and other CHIPS Alliance
-working groups.
-
-Other responsibilities include: admit (and if necessary expel) project,
-organize community meetings/conferences, resolve disputes between project
-allocate funds, clarify procedures for each membership type, and publicize
-Chisel projects.
-
-Projects are admitted (or expelled) by a 2/3 vote of the TAC. A list of current
-projects is maintained in a document in this repository.
-
+the CHIPS Alliance Board.
 The members are listed by name and Github username in a document within
 this repository. Membership change is reflected by pull requests
 against the membership list document. Members have the power to remove themselves.
@@ -174,8 +171,8 @@ a given change are set by the chair to a length of time not less than 2 weeks.
 Votes are tallied and if approved, pull requests are merged by the TAC Chair.
 
 Because many decisions may be non-controversial or involve personnel decisions better
-discussed in a meeting than via pull requests, votes *excluding changing the
-constitution* may occur in official TAC meetings. These votes will be tallied by the
+discussed in a meeting than via pull requests, votes **excluding changing the
+constitution** may occur in official TAC meetings. These votes will be tallied by the
 TAC chair, and if approved, reflected as pull requests by the chair against this
 respository. The chair must mention in the pull request when the vote took place, and
 another member of the TAC must approve the pull request for it to be merged.

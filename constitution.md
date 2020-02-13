@@ -12,7 +12,7 @@
 * [Collaboration Policy](#collaboration-policy)
   * [Communication Channels](#communication-channels)
   * [Development Policy](#development-policy)
-* [Changing the Constitution](#changing-the-constitution)
+* [Amending the Constitution](#amending-the-constitution)
 * [TAC Voting](#tac-voting)
 * [Code of Conduct (Contributors)](#code-of-conduct-contributors)
   * [Our Pledge](#our-pledge)
@@ -157,7 +157,7 @@ Successful experimental features/APIs will eventually be migrated to other packa
 All code contributions to mature projects (Chisel, FIRRTL, etc.) must undergo a review process and pass continuous 
 integration tests prior to merging into the master branch.
 
-## Changing the Constitution
+## Amending the Constitution
 Changes to the constitution are proposed as pull requests against this document.
 They are approved by 2/3 vote of the TAC as expressed by TAC members approving
 the pull request on Github.

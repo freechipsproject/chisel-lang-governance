@@ -95,7 +95,7 @@ Reviewers are the only members who have write-privileges to their repository, so
 development will not stall on their reviews. The procedure for becoming a Reviewer is outlined in the following Developers 
 section.
 
-Reviewers strictly subsume Developers (e.g. they also have all the rights and responsibilities of Contributors).
+Reviewers strictly subsume Developers (e.g. they also have all the rights and responsibilities of Developers).
 
 ### Developers
 Developers are the most common membership type, and is an entry point for enthusiastic community members. They have voting

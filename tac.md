@@ -6,6 +6,6 @@
 - Jack Koenig: @jackkoenig
 - Jim Lawson: @ucbjrl
 - Paul Rigge: @grebe
-- Richard Lin: @ducky
+- Richard Lin: @ducky64
 - Schuyler Eldridge: @seldridge
 

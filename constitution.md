@@ -147,7 +147,7 @@ from mailing lists to a more modern communication outlet.
 
 
 ### Development Policy
-Generally, development on mature products will release minor/major versions, where minor versions are backwards compatible, 
+Generally, mature projects will release minor/major versions, where minor versions are backwards compatible, 
 and major versions can break ok API’s. Old API’s will be deprecated prior to removal.
 
 New features which are experimental could be released in an **experimental** package, whereby all API’s in this package are 

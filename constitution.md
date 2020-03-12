@@ -130,7 +130,7 @@ not have voting rights, and no registration is required. Volunteers may attend d
 contribute through PR’s to Chisel repositories, and are encouraged to review and comment but they cannot accept PR requests. It is hoped that volunteers will become developers.
 
 ## Collaboration Policy
-CWG’s standard communication channels and development policy is outlined as follows, and will likely be adopted for other 
+The CWG’s standard communication channels and development policies are outlined as follows, and will likely be adopted for other 
 associated CHIPS Alliance working groups.
 
 ## Communication Channels
@@ -229,4 +229,3 @@ Further details of specific enforcement policies may be posted separately.
 
 Project administrators who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent 
 repercussions as determined by other members of the project's leadership.
-

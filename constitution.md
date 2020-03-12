@@ -184,7 +184,7 @@ available at http://contributor-covenant.org/version/1/4/
 
 ### Our Pledge
 In the interest of fostering an open and welcoming environment, we as contributors and administrators pledge to make 
-participation in our project and our community a harassment-free experience for everyone, regardless of age, bodysize, 
+participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, 
 disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, 
 religion, or sexual identity and orientation.
 

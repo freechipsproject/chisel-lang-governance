@@ -154,8 +154,7 @@ New features which are experimental could be released in an **experimental** pac
 subject to API changes without deprecation, and may change on a minor release (although this will be avoided if possible). 
 Successful experimental features/APIs will eventually be migrated to other packages.
 
-All code contributions to mature projects (Chisel, FIRRTL, etc.) must undergo a review process and pass continuous 
-integration tests prior to merging into the master branch.
+All code contributions to mature projects (Chisel, FIRRTL, etc.) must undergo a review process and pass rigorous testing prior to merging into the master branch.
 
 ## Amending the Constitution
 Changes to the constitution are proposed as pull requests against this document.

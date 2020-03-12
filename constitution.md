@@ -56,7 +56,7 @@ A list of current projects is maintained in a document in this repository.
 The TAC is made up of members of the community as well as one member appointed by
 the CHIPS Alliance Board.
 The members are listed by name and Github username in a document within
-this repository. Membership change is reflected by pull requests
+this repository. Membership changes are reflected by pull requests
 against the membership list document. Members have the power to remove themselves.
 Membership additions (or expulsions) require 2/3 approval of the current members
 of the TAC.

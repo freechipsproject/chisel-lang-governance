@@ -46,7 +46,7 @@ with CHIPS Alliance on behalf of the Chisel community. Additionally, the TAC is
 responsible for upholding the policies outlined in this document.
 
 Other responsibilities include: admitting (and if necessary expelling) projects,
-organizing community meetings/conferences, resolving disputes between projects,
+organizing community meetings/conferences, resolving disputes within and between projects,
 allocating funds, clarifying procedures for each membership type, and publicizing
 the Chisel community.
 

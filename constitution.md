@@ -119,7 +119,7 @@ Developers who have been inactive for six months or more will be removed from th
 A developer interested in becoming a reviewer should have a wide body of commits and begin reviewing submitted pull 
 requests to practice and build up a body of reviews, both to demonstrate their expertise but also to increase their 
 familiarity with the repository. These pull-requests will also require reviews from a Reviewer. Once a developer has 
-had over 10 reviews on a project, they can submit a request to the administrators to become a Reviewer for that project.
+had over 10 reviews on a project, the individual can nominate themselves, or the community can nominate them, to become a Reviewer. A request is then sent to the administrators, who decide whether to add the individual as a Reviewer for that project.
 
 Developers can contribute feedback by testing scheduled releases and fixes, and these members are critical to ensuring 
 Chisel's backwards compatibility, as well as discovering bugs before a release. 
@@ -127,10 +127,10 @@ Chisel's backwards compatibility, as well as discovering bugs before a release.
 ### Volunteers
 Volunteers are people who want to contribute to a Chisel project, but do not commit to a regular contribution. They do 
 not have voting rights, and no registration is required. Volunteers may attend development meetings. Volunteers may 
-contribute through PR’s to Chisel repositories, and are encouraged to review and comment but they cannot accept PR requests. It is hoped that volunteers will become developers.
+contribute through PRs to Chisel repositories, and are encouraged to review and comment but they cannot accept PR requests. It is hoped that volunteers will become developers.
 
 ## Collaboration Policy
-The CWG’s standard communication channels and development policies are outlined as follows, and will likely be adopted for other 
+The CWGs standard communication channels and development policies are outlined as follows, and will likely be adopted for other 
 associated CHIPS Alliance working groups.
 
 ## Communication Channels
@@ -141,16 +141,14 @@ All technical development discussions will be done either on Github with Github 
 a recurring open development meeting with video conferencing. Open development meetings will be run by project 
 administrators or senior reviewers.
 
-User-facing support is primarily through answering questions on **Stack Overflow**, contributing to and maintaining a **Github 
-Wiki page**, and promoting community dialogue with an associated **Gitter** channels. The purpose of Gitter is to move discussion 
-from mailing lists to a more modern communication outlet.
+User-facing support is primarily through a commitment to answering questions, providing documentation, and promoting community dialogue via a variety of communication channels listed on the website.
 
 
 ### Development Policy
 Generally, mature projects will release minor/major versions, where minor versions are backwards compatible, 
 and major versions can break old APIs. Old APIs will be deprecated prior to removal.
 
-New features which are experimental could be released in an **experimental** package, whereby all API’s in this package are 
+New features which are experimental could be released in an **experimental** package, whereby all APIs in this package are 
 subject to API changes without deprecation, and may change on a minor release (although this will be avoided if possible). 
 Successful experimental features/APIs will eventually be migrated to other packages.
 
@@ -178,53 +176,4 @@ another member of the TAC must approve the pull request for it to be merged.
 
 ## Code of Conduct (Contributors)
 
-Adapted from https://github.com/YosysHQ/yosys, which is itself adapted from the Contributor Covenant, version 1.4, 
-available at http://contributor-covenant.org/version/1/4/
-
-### Our Pledge
-In the interest of fostering an open and welcoming environment, we as contributors and administrators pledge to make 
-participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, 
-disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, 
-religion, or sexual identity and orientation.
-
-### Our Standards
-
-Examples of behavior that contributes to creating a positive environment
-include:
-
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
-
-Examples of unacceptable behavior by participants include:
-
-* The use of sexualized language or imagery and unwelcome sexual attention or advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or electronic address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a professional setting
-
-### Our Responsibilities
-Project administrators are responsible for clarifying the standards of acceptable behavior and are expected to take 
-appropriate and fair corrective action in response to any instances of unacceptable behavior.
-
-Project administrators have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, 
-issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any 
-contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
-
-### Scope
-This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project 
-or its community. Examples of representing a project or community include using an official project e-mail address, posting 
-via an official social media account, or acting as an appointed representative at an online or offline event. 
-Representation of a project may be further defined and clarified by project administrators.
-
-### Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team leader. 
-All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to 
-the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. 
-Further details of specific enforcement policies may be posted separately.
-
-Project administrators who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent 
-repercussions as determined by other members of the project's leadership.
+All Contributors are expected to abide by the code of conduct detailed in `CODE_OF_CONDUCT.md`, which is a verbatim copy of [Contributor Covenant 2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md).

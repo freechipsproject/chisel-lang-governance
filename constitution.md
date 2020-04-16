@@ -75,7 +75,7 @@ as a PR against the TAC membership document.
 Voting can only proceed if a quorum of 2/3 of all TAC members is established. An abstained vote counts towards quorum but not towards determining whether a motion passes or fails. Voting rules and procedure is enforced by the TAC Chair.
 ### Administrator
 Consists of one lead and any number of additional administrators who direct a
-given project and report progress to the TAC
+given project and report progress to the TAC.
 They have the responsibility to represent the user community’s diverse set of
 interests.
 

@@ -50,7 +50,7 @@ organizing community meetings/conferences, resolving disputes within and between
 allocating funds, clarifying procedures for each membership type, and publicizing
 the Chisel community.
 
-Projects are admitted (or expelled) by a 2/3 vote of the TAC.
+Projects are admitted (or expelled) by a 2/3 vote of the TAC, assuming a quorum is present.
 A list of current projects is maintained in a document in this repository.
 
 The TAC is made up of members of the community as well as one member appointed by
@@ -71,6 +71,8 @@ Chair elections generally occur during scheduled meetings, but in the event of a
 absent or otherwise misbehaving chair, such a vote can be initiated by any TAC member
 as a PR against the TAC membership document.
 
+#### Voting Procedure
+Voting can only proceed if a quorum of 2/3 of all TAC members is established. An abstained vote counts towards quorum but not towards determining whether a motion passes or fails. Voting rules and procedure is enforced by the TAC Chair.
 ### Administrator
 Consists of one lead and any number of additional administrators who direct a
 given project and report progress to the TAC

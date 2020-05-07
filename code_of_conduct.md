@@ -69,8 +69,9 @@ beliefs which may conflict with the community ideals.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-[INSERT CONTACT METHOD].
-All complaints will be reviewed and investigated promptly and fairly.
+chisel.language@gmail.com. All complaints will be reviewed and investigated
+promptly, fairly, and publicly by a sub-committee appointed by the Technical
+Advisory Committee.
 
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.

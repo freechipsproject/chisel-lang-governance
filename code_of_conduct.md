@@ -57,6 +57,14 @@ Examples of representing our community include using an official e-mail address,
 posting via an official social media account, or acting as an appointed
 representative at an online or offline event.
 
+This Code of Conduct applies for direct communication between community members.
+
+This Code of Conduct does not apply in spaces unaffiliated with the community or
+when a user is not officially representing the community. Examples of
+unaffiliated spaces or communication not representing the community include
+personal blogs and micro-blogs, political contributions, and religious/political
+beliefs which may conflict with the community ideals.
+
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be

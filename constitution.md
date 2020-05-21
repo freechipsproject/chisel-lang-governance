@@ -178,4 +178,4 @@ another member of the TAC must approve the pull request for it to be merged.
 
 ## Code of Conduct (Contributors)
 
-All Contributors are expected to abide by the code of conduct detailed in `code_of_conduct.md`, which is a verbatim copy of [Contributor Covenant 2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md).
+All Contributors are expected to abide by the code of conduct detailed in `code_of_conduct.md`, which is a modified copy of [Contributor Covenant 2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md).

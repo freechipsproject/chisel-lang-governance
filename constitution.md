@@ -14,12 +14,7 @@
   * [Development Policy](#development-policy)
 * [Amending the Constitution](#amending-the-constitution)
 * [TAC Voting](#tac-voting)
-* [Code of Conduct (Contributors)](#code-of-conduct-contributors)
-  * [Our Pledge](#our-pledge)
-  * [Our Standards](#our-standards)
-  * [Our Responsibilities](#our-responsibilities)
-  * [Scope](#scope)
-  * [Enforcement](#enforcement)
+* [Code of Conduct](#code-of-conduct)
   
 ## Relationship to CHIPS Alliance
 
@@ -176,6 +171,7 @@ TAC chair, and if approved, reflected as pull requests by the chair against this
 respository. The chair must mention in the pull request when the vote took place, and
 another member of the TAC must approve the pull request for it to be merged.
 
-## Code of Conduct (Contributors)
+## Code of Conduct
 
-All Contributors are expected to abide by the code of conduct detailed in `code_of_conduct.md`, which is a modified copy of [Contributor Covenant 2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md).
+As Chisel is a member of CHIPS Alliance, all Chisel activities and spaces are subject to
+the [Linux Foundation Code of Conduct](https://lfprojects.org/policies/code-of-conduct/).
